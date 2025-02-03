@@ -1,3 +1,5 @@
+[跳转到中文介绍](./README-cn.md)
+
 # Rubiks222-Python
 A Python Package for controlling 2x2x2 Rubik's cube.
 
