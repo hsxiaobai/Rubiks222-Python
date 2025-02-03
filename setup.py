@@ -5,8 +5,8 @@ setup(
   version="",
   packages=find_packages(),
   author="hsxiaobai",
-  description="",
+  description="A Python Package for 2x2x2 Rubik's cube.",
   long_description=open("README.md").read(),
   long_description_content_type="text/markdown",
-  url="https://github.com/hsxiaobai/Rubiks222-Python"
+  url="https://bgithub.xyz/hsxiaobai/Rubiks222-Python"
 )
