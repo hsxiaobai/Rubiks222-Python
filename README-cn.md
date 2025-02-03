@@ -1,3 +1,5 @@
+[Jump to the English README](./README.md)
+
 # Rubiks222-Python
 一个用于模拟二阶魔方的Python包。
 
