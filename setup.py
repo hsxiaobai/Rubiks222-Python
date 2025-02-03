@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
   name="rubiks222",
-  version="",
+  version="0.0.1inital",
   packages=find_packages(),
   author="hsxiaobai",
   description="A Python Package for 2x2x2 Rubik's cube.",
