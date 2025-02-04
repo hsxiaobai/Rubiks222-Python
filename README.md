@@ -12,7 +12,7 @@ A Python Package for controlling 2x2x2 Rubik's cube.
 It seems that there isn't any packages on **PyPI** which provides full methods controlling 2x2x2 Rubik's cube:
  1. Algorithms: Methods for reversing, simplifying and some other operations to the algorithms.
  2. Virtual cube: Methods for making, rotating faces and other operations to the virtual cube.
- 3. Solving cube: Methods for solving cubes in many ways.
+ 3. Solving cube: Methods for solving cubes in many ways.<br>
 To use these features in one package easily, I created this package.
 It will be a little hard to create a package for 3x3x3 Rubik's cube, so I just support methods for 2x2x2 Rubik's cube.
 
