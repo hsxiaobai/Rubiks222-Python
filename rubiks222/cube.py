@@ -1,10 +1,5 @@
 from __future__ import annotations
-
-class CubeFaceStringLengthError(BaseException):
-    pass
-
-class CubeStringLengthError(BaseException):
-    pass
+from ._errors import *
 
 class CubePiece:
     '''
